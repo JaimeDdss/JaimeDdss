@@ -21,7 +21,7 @@ I have 4+ years of experience in data. I started as a Data Analyst and moved int
 ## Currently
 
 - Studying modern AI applications for data engineering: RAG, LLM integration, and vector databases.
-- Working on a public portfolio project with a lakehouse pipeline (Delta Lake, PySpark, orchestration, and data quality tests). *(Remove this line until the project is actually in progress.)*
+- Working on a public portfolio project with a lakehouse pipeline (Delta Lake, PySpark, orchestration, and data quality tests). 
 
 ## Languages
 
